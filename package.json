@@ -10,8 +10,8 @@
     "deps": "closure-make-deps --root src --closure-path node_modules/google-closure-library > deps.js"
   },
   "dependencies": {
+    "@teppeis/google-closure-deps": "^20181008.0.0",
     "google-closure-compiler": "^20181008.0.0",
-    "google-closure-deps": "^20180910.1.0",
     "google-closure-library": "^20180910.0.0"
   },
   "devDependencies": {
